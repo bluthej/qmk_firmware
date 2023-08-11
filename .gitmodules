@@ -25,3 +25,6 @@
 	path = lib/lvgl
 	url = https://github.com/qmk/lvgl.git
 	branch = release/v8.2
+[submodule "keyboards/crkbd/keymaps/bluthej"]
+	path = keyboards/crkbd/keymaps/bluthej
+	url = git@github.com:bluthej/qmk-sworne.git
